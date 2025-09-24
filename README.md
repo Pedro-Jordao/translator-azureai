@@ -175,8 +175,7 @@ SOFTWARE.
 ## ✍️ Autor
 
 Pedro Jordão
-LinkedIn / GitHub: (adicionar links)
+[LinkedIn Pedro Jordão]([https://www.dio.me/en](https://www.linkedin.com/in/pedro-p-27219226b/))
 
 ---
 
-Se desejar, posso gerar também um script inicial de automação. Basta pedir.
