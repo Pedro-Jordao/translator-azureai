@@ -175,7 +175,7 @@ SOFTWARE.
 ## ✍️ Autor
 
 Pedro Jordão
-[LinkedIn Pedro Jordão] ([https://www.dio.me/en](https://www.linkedin.com/in/pedro-p-27219226b/)
+[LinkedIn Pedro Jordão](https://www.linkedin.com/in/pedro-p-27219226b/)
 
 ---
 
